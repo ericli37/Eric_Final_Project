@@ -142,6 +142,21 @@ header {
     }
 }
 
+.socials {
+    cursor: pointer;
+    height: 3rem;
+    width: 3rem;
+}
+
+.socials {
+    transition: all 300ms ease;
+}
+
+.socials:hover {
+    height: 3.3rem;
+    width: 3.3rem;
+}
+
 .button {
     display: inline-block;
     padding: 10px 30px;
