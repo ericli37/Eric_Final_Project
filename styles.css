@@ -40,7 +40,7 @@ header {
     display: flex;
     justify-content: space-between;
     max-width: var(--screen-width);
-    background-color: var(--yellow);
+    background-color: var(--base-100);
     margin: auto;
     padding-left: 100px;
     border-bottom: 1px solid rgba(0,0,0,0.1);
@@ -208,7 +208,7 @@ h1 {
 	}
 	.hero-blue {
 		flex:1;
-		background-color: var(--blue-100);
+		background-color: var(--base-100);
 		border-radius:30px;
 		padding:30px;
 		display:flex;
